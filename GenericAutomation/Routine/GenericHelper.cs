@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GenericAutomation.Routine
 {
-    class GenericHelper
+    public class GenericHelper
     {
 
     }
